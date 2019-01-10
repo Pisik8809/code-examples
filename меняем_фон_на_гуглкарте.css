@@ -1,0 +1,16 @@
+#map_canvas > div > div > div:nth-child(1) > div:nth-child(3) > div > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(4) {
+     background: rgba(0,0,0,0) !important;
+}
+ #map_canvas #content, #map_canvas #bodyContent, #map_canvas .gm-style-iw, #map_canvas .gm-style-iw div, #map_canvas p {
+     background: rgba(0,0,0,0) !important;
+}
+ #map_canvas > div > div > div:nth-child(1) > div:nth-child(3) > div > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(3) {
+     display: none !important;
+}
+ #map_canvas > div > div > div:nth-child(1) > div:nth-child(3) > div > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(1) {
+     border-top: rgba(0,0,0,0) !important;
+}
+ #map_canvas > div > div > div:nth-child(1) > div:nth-child(3) > div > div:nth-child(4) > div > div:nth-child(1) > div:nth-child(2) {
+     background: rgba(0,0,0,0) !important;
+     box-shadow: none !important;
+}
